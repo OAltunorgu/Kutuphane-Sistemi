@@ -1,2 +1,2 @@
 # Kutuphane-Sistemi
- Python ile kütüphane projem
+Çalışmam Kütüphane Sistemi projesidir. Oluşturulan proje python dili ile yazılmıştır. Projemde amaç kişisel veya kurumsal kütüphane hayatını pratikleştirmektir. Admin, ofis görevlisi ve kullanıcı olarak sisteme giriş yapılmaktadır. Admin kitap ekleme/silme, üye ekleme/silme, kitap arama ve üye arama yapabilir. Ofis görevlisi kitap ödünç verme, kitap arama, raporlama gibi işlemleri yapabilir. Kullanıcı ise kitap arayabilir ve hangi kitaplara sahip olduğunu üye arama, iade edilmeyen kitapları listeleme, iade süresini ihlal eden kullanıcı listeleme ve görüntüleyebilir.
